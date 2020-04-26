@@ -6,3 +6,7 @@ _Ethical, easy-to-use and privacy-conscious alternatives to well-known software_
 
 This is only placeholder repository to make it easier to find our project and its sources.  
 Please visit [our main repository here](https://codeberg.org/swiso/website)
+
+<a href="https://codeberg.org/swiso/website">
+    <img alt="Find us on Codeberg" src="https://raw.githubusercontent.com/switching-software/website/master/find-us-on-codeberg.png" height="50">
+</a>
